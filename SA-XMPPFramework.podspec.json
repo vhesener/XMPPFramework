@@ -139,16 +139,6 @@
       "prefix_header_contents": "#define HAVE_XMPP_SUBSPEC_ROSTER"
     },
     {
-      "name": "SystemInputActivityMonitor",
-      "source_files": "Extensions/SystemInputActivityMonitor/**/*.{h,m}",
-      "dependencies": {
-        "SA-XMPPFramework/Core": [
-
-        ]
-      },
-      "prefix_header_contents": "#define HAVE_XMPP_SUBSPEC_SYSTEMINPUTACTIVITYMONITOR"
-    },
-    {
       "name": "XEP-0009",
       "source_files": "Extensions/XEP-0009/**/*.{h,m}",
       "dependencies": {
